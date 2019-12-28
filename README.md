@@ -8,10 +8,10 @@
 Примеры работы программы:
 
 
-Request: http://localhost:80/?year=1700
-Response: {"errorCode": 200, "dataMessage": "13/09/1700"}
-Comment: 1700 год - невисокосный.
+<p>Request: http://localhost:80/?year=1700</p>
+<p>Response: {"errorCode": 200, "dataMessage": "13/09/1700"}</p>
+<p>Comment: 1700 год - невисокосный.</p>
 
-Request: http://localhost:80/?year=1600
-Response: {"errorCode": 200, "dataMessage": "12/09/1600"}
-Comment: 1600 год - високосный.
+<p>Request: http://localhost:80/?year=1600</p>
+<p>Response: {"errorCode": 200, "dataMessage": "12/09/1600"}</p>
+<p>Comment: 1600 год - високосный.</p>
